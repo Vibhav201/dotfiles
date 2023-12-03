@@ -1,0 +1,26 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[Annotations]
+annotationToolType=1
+freehandShadow=false
+freehandStrokeColor=58,61,78
+
+[General]
+onLaunchAction=UseLastUsedCapturemode
+useReleaseToCapture=true
+
+[GuiConfig]
+captureMode=0
+quitAfterSaveCopyExport=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Wallpapers/Themed/Catppuccin/Minimalistic/pacman_catpp.png,file:$HOME/Pictures/Wallpapers/Themed/Catppuccin/Minimalistic/pacman_catpp.png
+Recent URLs[$e]=file:$HOME/Documents/Uploads/ID & Photo/,file:$HOME/Pictures/Wallpapers/Themed/Catppuccin/Minimalistic/
+iconViewIconSize=64
+
+[Save]
+compressionQuality=85
+defaultSaveLocation=file:///home/terraz/Pictures/Screenshots
+lastSaveAsLocation=file:///home/terraz/Pictures/Wallpapers/Themed/Catppuccin/Minimalistic/pacman_catpp.png
+lastSaveLocation=file:///home/terraz/Pictures/Screenshots/Screenshot_20231203_175216.png

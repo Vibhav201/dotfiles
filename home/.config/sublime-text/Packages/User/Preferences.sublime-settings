@@ -1,0 +1,25 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Gruvbox Material Dark.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"font_face": "Fira Code",
+	"font_size": 12,
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_liga",
+		"no_clig",
+		"no_calt"
+	],
+	"caret_style": "smooth",
+
+	"caret_extra_top": 1,
+	"caret_extra_bottom": 1,
+	"caret_extra_width": 1,
+
+	"highlight_line": true,
+	"ui_scale": 1.3,
+}

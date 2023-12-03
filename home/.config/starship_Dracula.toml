@@ -1,0 +1,94 @@
+format = """
+[▒▓](bg0)\
+$directory\
+[](fg:bg0 bg:fg1)\
+$git_branch\
+$git_status\
+[ ](fg:fg1)\
+"""
+
+
+right_format = """
+$cmd_duration\
+$nodejs\
+$battery\
+"""
+# [░▒▓](#6272a4)\
+palette = "dracula"
+# add_newline = false
+
+# Replace the '❯' symbol in the prompt with '➜'
+# [character] # The name of the module we are configuring is 'character'
+# success_symbol = '[❯❯](bold green)'
+# error_symbol = '[❯❯](bold red)'# The 'successcd_symbol' segment is being set to '➜' with the color 'bold green'
+
+# [username]
+# show_always = true
+# style_user = "bg:#282A36 fg:#bd93f9 bold"
+# style_root = "bg:#bd93f9 fg:#000000 italic"
+# format = '[ $user ]($style)'
+# disabled = false
+
+
+[directory]
+style = "fg:fg1 bg:bg0"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncate_to_repo = false
+truncation_symbol = "…/"
+
+[directory.substitutions]
+# "Documents" = "  "
+# "Downloads" = "  "
+# # "Music/" = "/"
+# "Pictures" = "  "
+# "/mnt/DATA" = "  "
+# "~/github.com/" = "http://github.com"
+
+[git_branch]
+symbol = ""
+style = "bg:fg1"
+format = '[[ $symbol $branch ](fg:bg0 bg:fg1)]($style)'
+
+[git_status]
+style = "bg:fg1"
+format = '[[($all_status$ahead_behind )](fg:bg0 bg:fg1)]($style)'
+
+[nodejs]
+symbol = ""
+format = '[[ $symbol($version)](fg:#ff5555)]($style)'
+
+[battery]
+format = '[ $percentage]($style)'
+
+[[battery.display]]
+threshold = 50
+style = 'fg:#50fa7b'
+
+
+[cmd_duration]
+min_time = 1000
+format = ' [$duration](bold yellow)'
+#
+# [time]
+# disabled = false
+# time_format = "%R" # Hour:Minute Format
+# style = "bg:#282A36 fg:blue bold"
+# format = '[[ $time ](bg:base fg:lavender bold)]($style)'
+
+[palettes.dracula]
+fg0 = '#F8F8F2'
+fg1 = '#737aa5'
+bg0 = '#1A1C24'
+bg1 = '#282A36'
+bg2 = '#44475A'
+comment = '#6272A4'
+cyan = '#8BE9FD'
+green = '#50FA7B'
+orange = '#FFB86C'
+pink = '#FF79C6'
+purple = '#BD93F9'
+red = '#FF5555'
+yellow = '#F1FA8C'
+
+

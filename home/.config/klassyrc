@@ -1,0 +1,33 @@
+[Common]
+AlwaysShowIconHighlightUsing=AlwaysShowIconHighlightUsingBackground
+ApplyOpacityToHeader=false
+BackgroundColors=ColorsTitlebarText
+ButtonIconStyle=StyleRedmond
+ButtonShape=ShapeFullHeightRectangle
+RedAlwaysShownClose=true
+TranslucentButtonBackgrounds=false
+
+[Default Windeco Exception 0]
+Enabled=true
+
+[Default Windeco Exception 1]
+Enabled=true
+
+[Style]
+ScrollBarAddLineButtons=0
+ScrollBarMinSliderHeight=30
+ScrollBarSliderThicknessMouseNotOverPercent=85
+ScrollBarSliderThicknessMouseOver=7
+ScrollBarSubLineButtons=0
+
+[Windeco]
+AnimationsSpeedRelativeSystem=-1
+BoldButtonIcons=BoldIconsFine
+ColorizeThinWindowOutlineWithButton=false
+CornerRadius=1.8
+FullHeightButtonWidthMarginLeft=4
+FullHeightButtonWidthMarginRight=5
+ThinWindowOutlineThickness=2
+UseTitlebarColorForAllBorders=false
+WindowOutlineAccentWithContrastOpacityActive=0.6
+WindowOutlineAccentWithContrastOpacityInactive=0.2

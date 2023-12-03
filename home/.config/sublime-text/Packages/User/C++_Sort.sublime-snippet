@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+sort(${1:v}.begin(), ${1:v}.end());
+]]></content>
+  <tabTrigger>sort</tabTrigger>
+  <description>std::sort</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>

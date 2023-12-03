@@ -1,0 +1,55 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[ContextMenu]
+ShowAddToPlaces=false
+ShowViewMode=false
+
+[DetailsMode]
+PreviewSize=32
+
+[ExtractDialog]
+1536x864 screen: Height=530
+1536x864 screen: Width=1024
+DirHistory[$e]=/mnt/DATA/Code/Test/WebD_Source/,$HOME/Downloads/FEM/IntroToWebDev/Intro to WebDev/
+
+[General]
+ConfirmClosingMultipleTabs=false
+GlobalViewProps=false
+RememberOpenedTabs=false
+ShowFullPath=true
+UseTabForSwitchingSplitView=true
+Version=202
+ViewPropsTimestamp=2023,4,30,5,20,50.723
+
+[IconsMode]
+PreviewSize=96
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:///mnt/DATA/Code/Test/WebD_Source/
+detailViewIconSize=16
+iconViewIconSize=64
+
+[KPropertiesDialog]
+1536x864 screen: Height=455
+1536x864 screen: Width=416
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PlacesPanel]
+IconSize=32
+
+[PreviewSettings]
+Plugins=audiothumbnail,blenderthumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
+
+[Search]
+Location=Everywhere
+
+[ViewPropertiesDialog]
+1536x864 screen: Height=453
+1536x864 screen: Width=389

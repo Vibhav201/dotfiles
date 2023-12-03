@@ -1,0 +1,14 @@
+UUID=eac237f5-933d-4db3-bd12-584d10c13511  /                       btrfs    defaults                      0  0
+UUID=eac237f5-933d-4db3-bd12-584d10c13511  /var                    btrfs    subvol=/@/var                 0  0
+UUID=eac237f5-933d-4db3-bd12-584d10c13511  /usr/local              btrfs    subvol=/@/usr/local           0  0
+UUID=eac237f5-933d-4db3-bd12-584d10c13511  /srv                    btrfs    subvol=/@/srv                 0  0
+UUID=eac237f5-933d-4db3-bd12-584d10c13511  /root                   btrfs    subvol=/@/root                0  0
+UUID=eac237f5-933d-4db3-bd12-584d10c13511  /opt                    btrfs    subvol=/@/opt                 0  0
+UUID=eac237f5-933d-4db3-bd12-584d10c13511  /boot/grub2/x86_64-efi  btrfs    subvol=/@/boot/grub2/x86_64-efi  0  0
+UUID=eac237f5-933d-4db3-bd12-584d10c13511  /boot/grub2/i386-pc     btrfs    subvol=/@/boot/grub2/i386-pc  0  0
+UUID=012ff73e-14e4-4deb-a6f3-b0045c132d55  swap                    swap     defaults                      0  0
+UUID=eac237f5-933d-4db3-bd12-584d10c13511  /.snapshots             btrfs    subvol=/@/.snapshots          0  0
+UUID=d0c5db2e-82a3-4e4a-9c70-ea0e5dd2f273  /home                   ext4     data=ordered                  0  2
+UUID=C020-C3A4                             /boot/efi               vfat     utf8                          0  2
+UUID=1A5A17F25A17CA01                      /mnt/DATA               ntfs-3g  rw,umask=000,uid=1000,gid=1000,relatime,windows_names  0  0
+

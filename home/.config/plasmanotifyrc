@@ -1,0 +1,14 @@
+[Applications][firefox]
+Seen=true
+
+[Applications][org.gnome.Rhythmbox3]
+Seen=true
+
+[Applications][org.qbittorrent.qBittorrent]
+Seen=true
+
+[Notifications]
+LowPriorityHistory=true
+LowPriorityPopups=false
+PopupPosition=BottomRight
+PopupTimeout=2000

@@ -1,0 +1,181 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.5
+ContrastEffect=1
+Enable=
+IntensityAmount=0
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=55,56,68
+BackgroundNormal=68,71,90
+DecorationFocus=189,147,249
+DecorationHover=189,147,249
+ForegroundActive=189,147,249
+ForegroundInactive=191,191,191
+ForegroundLink=255,121,198
+ForegroundNegative=255,85,85
+ForegroundNeutral=241,250,140
+ForegroundNormal=248,248,242
+ForegroundPositive=80,250,123
+ForegroundVisited=139,233,253
+
+[Colors:Complementary]
+BackgroundAlternate=55,56,68
+BackgroundNormal=40,42,54
+DecorationFocus=189,147,249
+DecorationHover=189,147,249
+ForegroundActive=202,169,250
+ForegroundInactive=191,191,191
+ForegroundLink=255,146,208
+ForegroundNegative=255,110,103
+ForegroundNeutral=244,249,157
+ForegroundNormal=248,248,242
+ForegroundPositive=90,247,142
+ForegroundVisited=154,237,254
+
+[Colors:Selection]
+BackgroundAlternate=202,169,250
+BackgroundNormal=189,147,249
+DecorationFocus=189,147,249
+DecorationHover=189,147,249
+ForegroundActive=80,250,123
+ForegroundInactive=68,71,90
+ForegroundLink=241,250,140
+ForegroundNegative=255,85,85
+ForegroundNeutral=241,250,140
+ForegroundNormal=248,248,242
+ForegroundPositive=80,250,123
+ForegroundVisited=139,233,253
+
+[Colors:Tooltip]
+BackgroundAlternate=55,56,68
+BackgroundNormal=68,71,90
+DecorationFocus=189,147,249
+DecorationHover=189,147,249
+ForegroundActive=189,147,249
+ForegroundInactive=191,191,191
+ForegroundLink=255,121,198
+ForegroundNegative=255,85,85
+ForegroundNeutral=241,250,140
+ForegroundNormal=248,248,242
+ForegroundPositive=80,250,123
+ForegroundVisited=139,233,253
+
+[Colors:View]
+BackgroundAlternate=55,56,68
+BackgroundNormal=40,42,54
+DecorationFocus=189,147,249
+DecorationHover=189,147,249
+ForegroundActive=189,147,249
+ForegroundInactive=191,191,191
+ForegroundLink=255,121,198
+ForegroundNegative=255,85,85
+ForegroundNeutral=241,250,140
+ForegroundNormal=248,248,242
+ForegroundPositive=80,250,123
+ForegroundVisited=139,233,253
+
+[Colors:Window]
+BackgroundAlternate=55,56,68
+BackgroundNormal=40,42,54
+DecorationFocus=189,147,249
+DecorationHover=189,147,249
+ForegroundActive=189,147,249
+ForegroundInactive=191,191,191
+ForegroundLink=255,121,198
+ForegroundNegative=255,85,85
+ForegroundNeutral=241,250,140
+ForegroundNormal=248,248,242
+ForegroundPositive=80,250,123
+ForegroundVisited=139,233,253
+
+[DirSelect Dialog]
+DirSelectDialog Size=836,569
+History Items[$e]=file:$HOME/Downloads/Dracula_Custom,file:$HOME/Downloads/Dracula_Custom,file:$HOME/Downloads/Dracula_Custom,file:$HOME/Downloads/Dracula_Custom,file:$HOME/Downloads/Dracula_Custom,file:$HOME/Downloads/Dracula_Custom,file:$HOME/Downloads/Dracula_Custom,file:$HOME/Documents/Backups/Chrome Themes/GruvBox,file:$HOME/Documents/Backups/Chrome Themes/GruvBox,file:$HOME/Pictures/Wallpapers/Themed/Gruvbox,file:$HOME/Pictures/Wallpapers/Themed/Catppuccin,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavender,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:///mnt/DATA/Study Material/DSA/PepCoding/DSA - Level 1,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Music,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavender,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:///,file:///mnt/DATA/Study Material/DSA/JAVA + DSA - Kunal Kushwaha,file:///mnt/DATA/Study Material/DSA/Kunal Kushwaha,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:///mnt/DATA,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavenderv2,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavender,file:///mnt/DATA/Study Material/Obsidian Vaults/LYT,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavender,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavender,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavender,file:$HOME/Documents/Backups/Chrome Themes/Catppuccin_Lavender,file:$HOME/Applications/bens-obsidian-boilerplate,file:$HOME/Applications/Template_Hub,file:$HOME/Applications/obsidian-garden,file:///mnt/DATA/Study Material/Obsidian Vaults,file:$HOME/.config,file:$HOME/.themes,file:///mnt/DATA/DataStore/zARCHIVED/Dad's Music,file:$HOME/Pictures/Wallpapers/Z) Applied Set,file:$HOME/Pictures/Wallpapers/Themed/Catppuccin,file:$HOME/Pictures/Wallpapers/Themed/Catppuccin/Text,file:$HOME/Pictures/Wallpapers/Themed/Catppuccin/Minimalistic,file:$HOME/Pictures/Wallpapers/Themed/Catppuccin
+
+[General]
+BrowserApplication=brave-browser.desktop
+ColorScheme=KloraxDracula
+ColorSchemeHash=4f865001401e3d03ec928b6efaf80a38dbb5c843
+LastUsedCustomAccentColor=180,190,254
+Name=Lightly
+XftHintStyle=hintslight
+XftSubPixel=rgb
+fixed=Hack Nerd Font,10,-1,5,50,0,0,0,0,0
+font=Readex Pro,10,-1,5,50,0,0,0,0,0
+menuFont=Readex Pro,10,-1,5,50,0,0,0,0,0
+shadeSortColumn=true
+smallestReadableFont=Readex Pro,8,-1,5,50,0,0,0,0,0
+toolBarFont=Readex Pro,10,-1,5,50,0,0,0,0,0
+widgetStyle=Lightly
+
+[Icons]
+Theme=Papirus-Colors-Dark
+
+[KDE]
+AnimationDurationFactor=0.5
+ColorScheme=Lightly
+LookAndFeelPackage=Catppuccin-Macchiato-Sapphire
+ShowDeleteCommand=false
+contrast=10
+widgetStyle=Breeze
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=false
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=138
+View Style=Simple
+
+[KScreen]
+ScaleFactor=1.25
+ScreenScaleFactors=eDP-1=1.25;HDMI-1=1.25;DP-1=1.25;
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[PreviewSettings]
+MaximumRemoteSize=0
+MaximumSize=10485760
+
+[WM]
+activeBackground=40,42,54
+activeBlend=248,248,242
+activeFont=Readex Pro,10,-1,5,50,0,0,0,0,0
+activeForeground=248,248,242
+frame=61,174,233
+inactiveBackground=40,42,54
+inactiveBlend=68,71,90
+inactiveForeground=68,71,90
+inactiveFrame=239,240,241

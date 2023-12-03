@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+#include <bits/stdc++.h>
+#define INF 1000000000000000003
+#define PI 3.1415926535897932384626433832795
+#define oyes cout << "YES" << endl
+#define ono cout << "NO" << endl
+#define fast_cin() ios_base::sync_with_stdio(false); 
+				   cin.tie(NULL); cout.tie(NULL)
+typedef long long ll;
+typedef long double ld;
+typedef unsigned long long ull;
+
+using namespace std;
+const ll MOD = 1e9 + 7;
+
+int main()
+{
+	fast_cin(); 
+    int t;
+    cin >> t;
+    while(t--) {
+    	$0
+    }
+    return 0;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cst</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

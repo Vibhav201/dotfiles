@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Catppuccin color schemes",
+		"Emmet",
+		"gruvbox",
+		"Gruvbox Material Theme",
+		"Markdown Extended",
+		"Markdown Images",
+		"MarkdownAssistant",
+		"MarkdownEditing",
+		"Package Control",
+		"PackageDev",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+	],
+}

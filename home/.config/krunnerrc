@@ -1,0 +1,14 @@
+[PlasmaRunnerManager]
+migrated=true
+
+[Plugins]
+baloosearchEnabled=false
+browserhistoryEnabled=false
+browsertabsEnabled=false
+desktopsessionsEnabled=false
+konsoleprofilesEnabled=false
+org.kde.datetimeEnabled=false
+recentdocumentsEnabled=false
+
+[Runners][Dictionary]
+triggerWord=define

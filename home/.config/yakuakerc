@@ -1,0 +1,24 @@
+[Animation]
+Frames=10
+
+[Appearance]
+Skin=Breeze_Catppuccin
+SkinInstalledWithKns=true
+
+[Dialogs]
+FirstRun=false
+
+[KFileDialog Settings]
+iconViewIconSize=64
+
+[Shortcuts]
+move-session-left=none
+move-session-right=none
+next-session=none
+previous-session=none
+
+[Window]
+Height=40
+KeepOpen=false
+ShowTitleBar=false
+Width=80

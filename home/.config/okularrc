@@ -1,0 +1,59 @@
+1536x864 screen: Window-Maximized=true
+1536x864 screen: XPosition=268
+1536x864 screen: YPosition=141
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADXAAAC8/wCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAAAuAAAC8wAAAQgBAAACAAAFKAAAAvMAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+eDP-1=eDP-1
+
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+1536x864 screen: Height=802
+1536x864 screen: Width=1536
+1536x864 screen: Window-Maximized=true
+1536x864 screen: XPosition=0
+1536x864 screen: YPosition=29
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADxAAAC9PwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAAAuAAAC9AAAAQgBAAACAAAFDgAAAvQAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Print Preview]
+1536x864 screen: Height=500
+1536x864 screen: Width=600
+
+[Recent Files]
+File1[$e]=mtp:/vivo 1951/Internal storage/Download/Numerical Analysis.pdf
+File10[$e]=$HOME/Applications/CLI_Utilities/prev_gen/WIKI.md
+File2[$e]=mtp:/vivo 1951/Internal storage/Download/A friendly introduction to numerical analysis .pdf
+File3[$e]=$HOME/Desktop/Numerical Analysis.pdf
+File4[$e]=/mnt/DATA/Code/Other Repos/TerraZ-UO/dotfiles/README.md
+File5[$e]=$HOME/Downloads/IAF _ After Payment Preview.pdf
+File6[$e]=$HOME/Downloads/UserAssessmentReport_1688047925378.pdf
+File7[$e]=$HOME/Downloads/Eric Matthes - Python Crash Course_ A Hands-On, Project-Based Introduction to Programming-No Starch Press (2019).pdf
+File8[$e]=$HOME/Downloads/Vibhav_Sehrawat_TN.pdf
+File9[$e]=$HOME/Pictures/Wallpapers/Themed/Others/Catppuccin/FlatCat/cat.svg
+Name1[$e]=Numerical Analysis.pdf
+Name10[$e]=WIKI.md
+Name2[$e]=A friendly introduction to numerical analysis .pdf
+Name3[$e]=Numerical Analysis.pdf
+Name4[$e]=README.md
+Name5[$e]=IAF _ After Payment Preview.pdf
+Name6[$e]=UserAssessmentReport_1688047925378.pdf
+Name7[$e]=Eric Matthes - Python Crash Course_ A Hands-On, Project-Based Introduction to Programming-No Starch Press (2019).pdf
+Name8[$e]=Vibhav_Sehrawat_TN.pdf
+Name9[$e]=cat.svg
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[UiSettings]
+ColorScheme=

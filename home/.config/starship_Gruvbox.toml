@@ -1,0 +1,110 @@
+# Gruvbox Format
+format = """
+[▒▓](bg_dim)\
+$directory\
+[](fg:bg_dim bg:aqua)\
+$git_branch\
+$git_status\
+[ ](fg:aqua)\
+"""
+
+right_format = """
+$cmd_duration\
+$nodejs\
+$battery\
+"""
+# [░▒▓](#6272a4)\
+palette = "gruvbox_material_dark"
+# add_newline = false
+
+# Replace the '❯' symbol in the prompt with '➜'
+# [character] # The name of the module we are configuring is 'character'
+# success_symbol = '[❯❯](bold green)'
+# error_symbol = '[❯❯](bold red)'# The 'successcd_symbol' segment is being set to '➜' with the color 'bold green'
+
+# [username]
+# show_always = true
+# style_user = "bg:#282A36 fg:#bd93f9 bold"
+# style_root = "bg:#bd93f9 fg:#000000 italic"
+# format = '[ $user ]($style)'
+# disabled = false
+
+
+[directory]
+style = "fg:aqua bg:bg_dim"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncate_to_repo = false
+truncation_symbol = "…/"
+
+[directory.substitutions]
+# "Documents" = "  "
+# "Downloads" = "  "
+# # "Music/" = "/"
+# "Pictures" = "  "
+# "/mnt/DATA" = "  "
+# "~/github.com/" = "http://github.com"
+
+[git_branch]
+symbol = ""
+style = "bg:aqua"
+format = '[[ $symbol $branch ](fg:bg_dim bg:aqua)]($style)'
+
+[git_status]
+style = "bg:aqua"
+format = '[[($all_status$ahead_behind )](fg:bg_dim bg:aqua)]($style)'
+
+[nodejs]
+symbol = ""
+format = '[[ $symbol($version)](fg:red)]($style)'
+
+[battery]
+format = '[ $percentage]($style)'
+
+[[battery.display]]
+threshold = 50
+style = 'fg:green'
+
+
+[cmd_duration]
+min_time = 1000
+format = ' [$duration](bold yellow)'
+#
+# [time]
+# disabled = false
+# time_format = "%R" # Hour:Minute Format
+# style = "bg:#282A36 fg:blue bold"
+# format = '[[ $time ](bg:base fg:lavender bold)]($style)'
+
+[palettes.gruvbox_material_dark]
+fg0 = '#E2CCA9'
+bg_dim = '#1B1B1B'
+bg0 = '#282828'
+bg1 = '#32302F'
+bg2 = '#32302F'
+bg3 = '#45403D'
+bg4 = '#45403D'
+bg5 = '#5A524C'
+blue = '#80AA9E'
+aqua = '#8BBA7F'
+green = '#B0B846'
+orange = '#F28534'
+purple = '#D3869B'
+red = '#F2594B'
+yellow = '#E9B143'
+grey0 = '#7C6F64'
+grey1 = '#A89984'
+
+[palettes.gruvbox_dark]
+fg0 = '#fbf1c7'
+bg1 = '#3c3836'
+bg3 = '#665c54'
+blue = '#458588'
+aqua = '#689d6a'
+green = '#98971a'
+orange = '#d65d0e'
+purple = '#b16286'
+red = '#cc241d'
+yellow = '#d79921'
+
+

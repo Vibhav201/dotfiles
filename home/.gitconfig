@@ -1,0 +1,9 @@
+[user]
+	email = sehrawatvibhav9753@gmail.com
+	name = Vibhav Sehrawat
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[pull]
+	rebase = false
